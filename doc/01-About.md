@@ -16,6 +16,12 @@ Most such actions (like rescheduling a check) can be done with just a single cli
 
 More details about this module can be found in [this chapter](../modules/monitoring/doc/01-About.md#monitoring-module-about).
 
+## Accessibility <a id="about-accessibility"></a>
+
+In Icinga Web 2 interface even the blind can see - 
+easy navigation with a screen reader and specific themes for different kinds of vision deficiencies
+make it possible for everyone to monitor their systems without impairments.
+
 ## Installation <a id="about-installation"></a>
 
 Icinga Web 2 can be installed easily from packages from the official package repositories.
